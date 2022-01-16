@@ -8,3 +8,23 @@
 
 
 /* kotoki's zone */
+.image-telephone-container{
+  text-align: center;
+  padding-bottom: 11px;
+  margin-bottom: 20px;
+}
+.image-telephone{
+  width: 64px;
+  height: 64px;
+  max-width: 100%;
+}
+h2,a{
+  text-align: center;
+  font-size: 40px;
+  color: #FFFFFF;
+  font-family: 'Berkshire Swash';
+}
+.telephonenumber-container{
+  padding-top: 17px;
+  margin-bottom: 20px;
+}
