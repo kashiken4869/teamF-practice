@@ -47,7 +47,23 @@
 }
 
 /* miyuki's zone */
+.firstVisualInner{
+  background-color: brown;
+}
 
+.aligncenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  display: flex;
+}
+
+.center {
+  text-align: center;
+}
 
 /* kahsiken's zone */
 .welcomeContainer {
