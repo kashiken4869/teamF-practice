@@ -5,6 +5,101 @@
 
 
 /* kahsiken's zone */
+.welcomeContainer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+    height: 400px;
+    background-color: #f5f5f5;
+}
+
+.welcomeScriptContainer {
+    width: 30%;
+}
+
+.welcomeTitle {
+    font-size: 40px;
+    margin-bottom: 10px;
+    }
+
+.welcomeScript {
+    margin: 20px 0 40px;
+}
+
+.takeOutButton {
+    width: 163px;
+    height: 45px;
+    display: flex;
+    padding: 0 30px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FF770F;
+    border-radius: 20px;
+    border: none;
+}
+
+.takeOutScript  {
+    font-size: 13px;
+    color: white;
+}
+
+i {
+    width: 12px;
+    height: 14px;
+    color: white;
+    /* margin-left: 20px; */
+}
+
+.cheeseNanContainer {
+    width: 300px;
+}
+
+.activeTime {
+    width: 350px;
+    /* height: 250px; */
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    box-shadow: 0 -60px 70px 0 black inset;
+}
+
+.activeTime img {
+    position: relative;
+    /* width: 100%; */
+    height: 100%;
+}
+
+.activeTimeScripts {
+    position: absolute;
+    top: 35%;
+
+    text-align: center;
+    color: white;
+
+}
+
+h3 {
+    font-size:40px;
+    margin-bottom: 20px;
+}
+
+.activeTimeScripts p {
+    text-align: center;
+    font-size: 12px;
+    }
 
 
+.fixed {
+    height:300px;
+    /* background-attachment:fixed; */
+    background-size: 120%;
+    /* background-position:center; */
+    /* opacity: 0.56; */
+}
+
+.backImg {
+    background-image: url(https://nanstation.com/wp-content/uploads/2020/09/19.png);
+    }
 /* kotoki's zone */
